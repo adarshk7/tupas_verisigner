@@ -12,6 +12,11 @@ This package can be used to:
 * And, generate a response URL with new signature based on an shared output secret.
 
 
+## Installation via pip
+
+`pip install tupas_versigner`
+
+
 ## Usage
 
 ```
